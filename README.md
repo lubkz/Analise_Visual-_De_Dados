@@ -8,20 +8,9 @@ Proporcionalidade de Engajamento: Identificação de quais gêneros possuem a me
 
 Rankings de Performance: Levantamento dos 5 jogos com melhor e pior avaliação na base de dados.
 
-🛠️ Tecnologias Utilizadas:
+## 🛠️ Tecnologias Utilizadas:
 Python: Lógica e manipulação de arquivos.
 
 Pandas: Limpeza, filtragem e agregação de dados.
 
 Jupyter Notebook: Documentação visual e exibição de gráficos.
-
-2. Para o Currículo (Canva - Seção de Projetos)
-(Texto direto e profissional para o recrutador ler rápido)
-
-Análise Estatística de Dados (Python & Pandas)
-
-Desenvolvimento de projeto de análise exploratória de dados utilizando arquivos CSV e Jupyter Notebook.
-
-Implementação de filtros lógicos e cálculos de média proporcional para garantir a precisão de rankings de performance.
-
-Geração de visualizações gráficas para suporte à tomada de decisão e interpretação de tendências em grandes conjuntos de dados.
